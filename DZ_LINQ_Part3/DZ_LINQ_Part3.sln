@@ -1,0 +1,20 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Surnames LINQ", "Surnames_LINQ\Surnames_LINQ.csproj", "{FA2AF01E-0054-4DFD-99F2-BAC053B7EB6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magazines LINQ", "Magazines_LINQ\Magazines_LINQ.csproj", "{AE138C99-91C1-4ED0-8E88-9356B5EBE4B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2AF01E-0054-4DFD-99F2-BAC053B7EB6F}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{FA2AF01E-0054-4DFD-99F2-BAC053B7EB6F}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+		{AE138C99-91C1-4ED0-8E88-9356B5EBE4B5}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{AE138C99-91C1-4ED0-8E88-9356B5EBE4B5}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+	EndGlobalSection
+EndGlobal

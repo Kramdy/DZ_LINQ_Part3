@@ -1,0 +1,6 @@
+D:\С#\DZ_LINQ_Part3\Magazines_LINQ\bin\Debug\MagazinesLINQ.exe
+D:\С#\DZ_LINQ_Part3\Magazines_LINQ\bin\Debug\MagazinesLINQ.pdb
+D:\С#\DZ_LINQ_Part3\Magazines_LINQ\obj\Debug\Magazines_LINQ.csproj.AssemblyReference.cache
+D:\С#\DZ_LINQ_Part3\Magazines_LINQ\obj\Debug\Magazines_LINQ.csproj.CoreCompileInputs.cache
+D:\С#\DZ_LINQ_Part3\Magazines_LINQ\obj\Debug\MagazinesLINQ.exe
+D:\С#\DZ_LINQ_Part3\Magazines_LINQ\obj\Debug\MagazinesLINQ.pdb

@@ -1,0 +1,6 @@
+D:\С#\DZ_LINQ_Part3\Surnames_LINQ\bin\Debug\SurnamesLINQ.exe
+D:\С#\DZ_LINQ_Part3\Surnames_LINQ\bin\Debug\SurnamesLINQ.pdb
+D:\С#\DZ_LINQ_Part3\Surnames_LINQ\obj\Debug\Surnames_LINQ.csproj.AssemblyReference.cache
+D:\С#\DZ_LINQ_Part3\Surnames_LINQ\obj\Debug\Surnames_LINQ.csproj.CoreCompileInputs.cache
+D:\С#\DZ_LINQ_Part3\Surnames_LINQ\obj\Debug\SurnamesLINQ.exe
+D:\С#\DZ_LINQ_Part3\Surnames_LINQ\obj\Debug\SurnamesLINQ.pdb
